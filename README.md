@@ -1,2 +1,2 @@
 ## Shopping cart (typescript)
-
+------------------------------
