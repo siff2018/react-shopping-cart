@@ -6,3 +6,4 @@
 costumers
 d
 000
+0
