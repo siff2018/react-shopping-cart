@@ -7,7 +7,7 @@ costumers
 d
 000
 0d
-00
+00d
 0d
 0
 0d
