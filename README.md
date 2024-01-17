@@ -14,7 +14,7 @@ d
 0dfdd
 0dd
 0dddd
-00ddd
+00dd
 0ddd
 0d
 0
