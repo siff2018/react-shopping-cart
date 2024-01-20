@@ -16,7 +16,7 @@ d
 0dddd
 00dd
 0dddd
-0d
+0dd
 0
 0ddd
 0ddd
