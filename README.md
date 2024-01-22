@@ -21,7 +21,7 @@ d
 0ddd
 0dddd
 0dddd
-0
+0d
 dd
 ddd
 d
